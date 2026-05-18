@@ -15,6 +15,7 @@
     "maui.windows",
     "Microsoft.Component.ClickOnce",
     "Microsoft.Component.MSBuild",
+    "Microsoft.Component.NetFX.Native",
     "Microsoft.ComponentGroup.Blend",
     "Microsoft.ComponentGroup.ClickOnce.Publish",
     "Microsoft.Net.Component.4.6.1.SDK",
@@ -37,8 +38,10 @@
     "microsoft.net.runtime.mono.tooling",
     "microsoft.net.runtime.mono.tooling.net9",
     "microsoft.net.sdk.emscripten",
+    "microsoft.net.sdk.emscripten.net9",
     "Microsoft.NetCore.Component.DevelopmentTools",
     "Microsoft.NetCore.Component.Runtime.10.0",
+    "Microsoft.NetCore.Component.Runtime.9.0",
     "Microsoft.NetCore.Component.SDK",
     "Microsoft.VisualStudio.Component.CoreEditor",
     "Microsoft.VisualStudio.Component.CppBuildInsights",
@@ -72,6 +75,8 @@
     "Microsoft.VisualStudio.Component.VC.14.44.17.14.MFC.Spectre",
     "Microsoft.VisualStudio.Component.VC.14.44.17.14.x86.x64",
     "Microsoft.VisualStudio.Component.VC.14.44.17.14.x86.x64.Spectre",
+    "Microsoft.VisualStudio.Component.VC.14.50.18.0.ARM64",
+    "Microsoft.VisualStudio.Component.VC.14.50.18.0.ARM64.Spectre",
     "Microsoft.VisualStudio.Component.VC.14.50.18.0.x86.x64",
     "Microsoft.VisualStudio.Component.VC.14.50.18.0.x86.x64.Spectre",
     "Microsoft.VisualStudio.Component.VC.ASAN",
@@ -117,7 +122,8 @@
     "runtimes.ios.net9",
     "runtimes.maccatalyst",
     "runtimes.maccatalyst.net9",
-    "wasm.tools"
+    "wasm.tools",
+    "wasm.tools.net9"
   ],
   "extensions": [
     "https://marketplace.visualstudio.com/items?itemName=MLNET.ModelBuilder2022",
